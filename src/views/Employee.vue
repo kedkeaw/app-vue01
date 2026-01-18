@@ -10,6 +10,7 @@
           <th>ชื่อ</th>
           <th>แผนก</th>
           <th>เงินเดือน</th>
+          <th>active</th>
           <th>สถานะ</th>
         </tr>
       </thead>
