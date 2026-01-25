@@ -1,7 +1,9 @@
 <template>
   <div class="container mt-4">
     <h2 class="mb-3">รายชื่อพนักงาน</h2>
-
+    <div class="mb-3 text-end">
+    <a class="btn btn-primary" href="/addemployees" role="button">Add+</a>
+    </div>
     <!-- ตารางแสดงข้อมูลลูกค้า -->
     <table class="table table-bordered table-striped">
       <thead class="table-dark">
